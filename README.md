@@ -1,0 +1,1 @@
+# Receber-o-Codigo-Hexadecimal-de-uma-cor-aleat-ria
